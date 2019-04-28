@@ -1,0 +1,65 @@
+#firstLayer{
+    width:400px;
+    margin: 0 auto;
+}
+button{
+    height: 60px;
+    width:150px;
+    float:left;
+    background-color: green;
+    color: yellow;
+}
+#yearMonth{
+    line-height: 60px;
+    width:80px;
+    height: 60px;
+    float:left;
+    text-align: center;
+    padding: auto;
+    background-color: green;
+
+}
+#title
+{
+    margin-top: 20px;
+    background-color: green;
+    color: yellow;
+}
+#subtitle
+{
+    width: 400px;
+    color: black;
+
+}
+.weekday
+{
+    width:13.5%;
+    float: left;
+    height: 30px;
+    border-style: solid;;
+    border-width: 0.1px;
+
+}
+.everyday
+{
+    float: left;
+    width: 14%;
+    color: green;
+    border-style: solid;
+    text-align: center;
+}
+.detail
+{
+    width:13.5%;
+    float: left;
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+
+    border-width: 0.1px;
+    color: green;
+}
+
+
+
+
